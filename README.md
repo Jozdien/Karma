@@ -8,3 +8,6 @@ A real-time damage extent map is also constructed on the app, using alert locati
 This is built on HTML and CSS (with Bootstrap) for the front end, and PHP, with Leaflet's map API, in the back end.
 
 In 2018 alone, over **10,000 reported** deaths have been attributed to natural disasters. That's a number large enough to invoke scope insensitivity. It'll be a while before we reach absolute zero, considering the sheer extent of problems faced in managing it. But one of those problems, and certainly one of the more fundamental ones, is the lack of proper information channels. This is the major inspiration behind the conception of Karma.
+
+
+**Won 1st place at EVOKE Hackathon 2019 by IEDC and IEEE SB**
