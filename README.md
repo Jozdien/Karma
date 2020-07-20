@@ -1,5 +1,5 @@
 # Karma
-This is the prototype for an emergency management app. 
+This is the prototype for an emergency management system. 
 
 Under conditions of duress, one can send out an alert to other users in their vicinity, with colours -yellow, orange, and red, in increasing order- denoting the severity, and time sensitivity, of their situation. Their location is then marked on a map, and on resolution, points are awarded to the rescuers, graded by colour-coding. These points can later be traded in for government and private subsidies, on taxes and partnered company products.
 
